@@ -1,0 +1,18 @@
+button {
+    font-size: 60px;
+    width: 130px;
+}
+
+h2 {
+    box-sizing: border-box;
+    font-size: 60px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px black;
+    width: 397px;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+#clear {
+    width: 398px;
+}
